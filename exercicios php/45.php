@@ -1,0 +1,2 @@
+<?php
+$vetor=array(readline(''));
